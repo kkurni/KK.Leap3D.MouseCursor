@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="LeapCSharp.NET4.0, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Leap_Developer_Kit_0.7.3_2234_Windows\Leap_SDK\lib\LeapCSharp.NET4.0.dll</HintPath>
+      <HintPath>..\SDK\Leap_SDK_0.7.3_2234\Leap_SDK\lib\LeapCSharp.NET4.0.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
